@@ -1,0 +1,2 @@
+/// name numObjects StartPos Size
+positive/1.jpg 1 0 0 50 50
