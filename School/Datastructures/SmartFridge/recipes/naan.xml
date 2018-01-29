@@ -1,0 +1,59 @@
+<recipe>
+	<recipeName>Naan</recipeName>
+	<courses>
+		<c>Side</c>
+	</courses>
+	<ingredients>
+		<i>
+			<n>Yeast, active dry</n>
+			<q>0.25</q>
+			<u>ounces</u>
+		</i>
+		<i>
+			<n>Sugar, white</n>
+			<q>0.25</q>
+			<u>cup</u>
+		</i>
+		<i>
+			<n>Milk</n>
+			<q>3</q>
+			<u>tablespoons</u>
+		</i>
+		<i>
+			<n>Egg</n>
+			<q>1</q>
+			<u></u>
+		</i>
+		<i>
+			<n>Salt</n>
+			<q>2</q>
+			<u>teaspoons</u>
+		</i>
+		<i>
+			<n>Flour, bread</n>
+			<q>4.5</q>
+			<u>cups</u>
+		</i>
+		<i>
+			<n>Butter</n>
+			<q>0.25</q>
+			<u>cups</u>
+		</i>
+	</ingredients>
+	<directions>
+		<d>In a large bowl, disolve yeast inside of 1 cup of warm water.</d>
+		<d>Let stand until frothy, about 10 minutes.</d>
+		<d>Mix in sugar, milk, egg, salt, and flour.</d>
+		<d>Knead for 6 to 8 minutes on a lightly floured surface to prevent sticking</d>
+		<d>Place dough in a oiled bowl and place damp cloth over dough for 1 hour.</d>
+		<d>After this hour, the dough should have doubled in volume.</d>
+		<d>At this point for extra taste, knead in 2 teaspoons of minced garlic.</d>
+		<d>Seperate dough into small golfball sized balls</d>
+		<d>Once again, cover with a towel and let sit for approximately 30 minutes</d>
+		<d>Preheat a grill to a high heat and lightly oil.</d>
+		<d>Roll each ball of dough into a flat thin circle and place on grill.</d>
+		<d>Brush each side with melted butter and cook until puffy and lightly browned on both sides</d>
+		<d>Repeat the process till all of the balls of doughs are cooked.</d>
+		<d>Serve with another dish or by itsself.</d> 
+	</directions>
+</recipe>

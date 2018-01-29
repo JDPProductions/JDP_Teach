@@ -1,0 +1,39 @@
+<recipe>
+	<recipeName>Garlic Chicken</recipeName>
+	<courses>
+		<c>Appetizer</c>
+	</courses>
+	<ingredients>
+		<i>
+			<n>Butter</n>
+			<q>3</q>
+			<u>tablespoon</u>
+		</i>
+		<i>
+			<n>Boneless chicken</n>
+			<q>2</q>
+			<u></u>
+		</i>
+		<i>
+			<n>Garlic powder</n>
+			<q>2</q>
+			<u>tablespoon</u>
+		</i>
+		<i>
+			<n>Seasoning salt</n>
+			<q>1</q>
+			<u>tablespoon</u>
+		</i>
+		<i>
+			<n>Onion powder</n>
+			<q>1</q>
+			<u>tablespoon</u>
+		</i>
+	</ingredients>
+	<directions>
+		<d>Melt butter in a large skillet over medium high heat.</d>
+		<d>Add chicken and sprinkle with garlic powder,seasoning salt and onion powder.</d>
+		<d>Saute about 10 to 15 minutes on each side, or until chicken is cooked through and juices run clear.</d>
+		<d>Let cool for 1 minute and serve.</d>
+	</directions>
+</recipe>

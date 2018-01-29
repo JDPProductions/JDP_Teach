@@ -1,0 +1,42 @@
+<recipe>
+	<recipeName>French Toast</recipeName>
+	<courses>
+		<c>Breakfast</c>
+	</courses>
+	<ingredients>
+		<i>
+			<n>Bread</n>
+			<q>6</q>
+			<u>Slices</u>
+		</i>
+		<i>
+			<n>Egg</n>
+			<q>2</q>
+			<u></u>
+		</i>
+		<i>
+			<n>Milk</n>
+			<q>0.66</q>
+			<u>Cups</u>
+		</i>
+		<i>
+			<n>Cinnamon, ground</n>
+			<q>0.25</q>
+			<u>teaspoon</u>
+		</i>
+		<i>
+			<n>Oil</n>
+			<q></q>
+			<u></u>
+		</i>
+	</ingredients>
+	<directions>
+		<d>Beat together the eggs, milk, and cinnamon.</d>
+		<d>For extra taste, add 1/4 teaspoon of ground nutmeg and/or 1 teaspoon of vanilla extract.</d>
+		<d>Add a pinch of salt and mix</d>
+		<d>Lightly oil a skillet over a medium-high heat.</d>
+		<d>Soak each side of the thick sliced bread and cook on both sides until a golden brown.</d>
+		<d>Serve hot. Optional: Add a tiny slice of butter on top of French Toast.</d>
+	</directions>
+</recipe>
+			

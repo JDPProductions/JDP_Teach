@@ -1,0 +1,34 @@
+<recipe>
+	<recipeName>Grilled Cheese</recipeName>
+	<courses>
+		<c>Snack</c>
+	</courses>
+	<ingredients>
+		<i>
+			<n>Bread</n>
+			<q>2</q>
+			<u>Slices</u>
+		</i>
+		<i>
+			<n>Butter</n>
+			<q>4</q>
+			<u>Tablespoons</u>
+		</i>
+		<i>
+			<n>Cheese</n>
+			<q>2</q>
+			<u>Slices</u>
+		</i>
+	</ingredients>
+	<directions>
+		<d>Add one tablespoon of butter into a skillet.</d>
+		<d>Heat butter over a medium heat till melted and add a slice of bread.</d>
+		<d>Brown the bread on one side and remove bread from skillet.</d>
+		<d>Repeat the above steps for the other slice of bread.</d>
+		<d>Add cheese slices in between browned sides.</d>
+		<d>Once again, for each side of the grilled cheese:</d>
+		<d>Add 1 tablespoon of butter into skillet and melt.</d>
+		<d>Brown outside side of bread on grilled cheese</d>
+		<d>Serve.</d>
+	</directions>
+</recipe>

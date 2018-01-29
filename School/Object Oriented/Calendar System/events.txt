@@ -1,0 +1,8 @@
+Quiz 1,4/16/2016,11A.M.,12:00P.M.
+Midterm 2,5/2/2016,3P.M.,5P.M.
+Wake Up,3/28/2016,7A.M.,9A.M.
+Dinner Plans,4/30/2016,7P.M.,8P.M.
+Lunch Plans,4/30/2016,12P.M.,1P.M.
+Dessert,4/30/2016,9P.M.,11.P.M.
+Sample Event,5/24/2016,3P.M.,5P.M.
+Fixed Conflicting Event,5/24/2016,5P.M.,7P.M.

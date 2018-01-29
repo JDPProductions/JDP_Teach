@@ -1,0 +1,46 @@
+<recipe>
+	<recipeName>Tuna Casserol</recipeName>
+	<courses>
+		<c>Appetizer</c>
+	</courses>
+	<ingredients>
+		<i>
+			<n>Macaroni</n>
+			<q>3</q>
+			<u>cups</u>
+		</i>
+		<i>
+			<n>Tuna, canned</n>
+			<q>6</q>
+			<u>ounce</u>
+		</i>
+		<i>
+			<n>Cream of chicken soup</n>
+			<q>10.75</q>
+			<u>ounce</u>
+		</i>
+		<i>
+			<n>Fried onions</n>
+			<q>3</q>
+			<u>cups</u>
+		</i>
+		<i>
+			<n>Cheese, shredded</n>
+			<q>3</q>
+			<u>cups</u>
+		</i>
+		
+	</ingredients>
+	<directions>
+		<d>Bring a pot of water to a boil.</d>
+		<d>Add macaroni to boiling water and cook for 6 to 8 minutes.</d> 
+		<d>Preheat oven to 350 degrees Farenheight(175 degrees Celcius).</d>
+		<d>Drain the can of tuna.</d>
+		<d>In a 9x13-inch baking dish,combine the macaroni,tuna,and soup.</d>
+		<d>Mix well,and then top with cheese.</d>
+		<d>Bake at 350 degrees F(175 degrees C) for about 35 minutes,or until bubbly</d>
+		<d>Sprinkle with fried onions, and bake for another 5 minutes.</d>
+		<d>Serve hot.</d>
+	</directions>
+</recipe>
+			

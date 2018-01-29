@@ -1,0 +1,39 @@
+<recipe>
+	<recipeName>Tomato Basil Salmon</recipeName>
+	<courses>
+		<c>Appetizer</c>
+	</courses>
+	<ingredients>
+		<i>
+			<n>Salmon fillet, boneless</n>
+			<q>12</q>
+			<u>Ounce</u>
+		</i>
+		<i>
+			<n>Basil, dried</n>
+			<q>1</q>
+			<u>tablespoon</u>
+		</i>
+		<i>
+			<n>Tomato</n>
+			<q>1</q>
+			<u></u>
+		</i>
+		<i>
+			<n>Olive oil</n>
+			<q>1</q>
+			<u>Tablespoon</u>
+		</i>
+	</ingredients>
+	<directions>
+		<d>Preheat oven to 375 degrees.</d>
+		<d>Line a baking sheet with a sheet of aluminum foil and spray with nonstick cooking oil.</d>
+		<d>Place the salmon fillets onto the foil.</d>
+		<d>Sprinkle dried basil over fillets and then top with thin slices of tomato.</d>
+		<d>Lightly drizzle olive oil over tomatoes and top with parmesan cheese.</d>
+		<d>Bake in the oven for approximately 20 minutes.</d>
+		<d>Stop baking when the salmon is opaque in the center or can be easily pulled apart with a fork.</d>
+		<d>The parmesan cheese should be lightly browned on top.</d>
+	</directions>
+</recipe>
+			

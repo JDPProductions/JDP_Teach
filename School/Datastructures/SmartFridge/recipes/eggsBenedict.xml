@@ -1,0 +1,64 @@
+<recipe>
+    <recipeName>Eggs Benidict</recipeName>
+    <courses>
+        <c>Breakfast</c>
+    </courses>
+    <ingredients>
+        <i>
+            <n>Egg</n>
+            <q>3</q>
+            <u></u>
+        </i>
+        <i>
+            <n>Lemon Juice</n>
+            <q>3</q>
+            <u>Tablespoon</u>
+        </i>
+        <i>
+            <n>Worcestershire Sauce</n>
+            <q>0.125</q>
+            <u>Teaspoon</u>
+        </i>
+		<i>
+            <n>Butter</n>
+            <q>1</q>
+            <u>Cup</u>
+        </i>
+		<i>
+            <n>Canadian Bacon</n>
+            <q>8</q>
+            <u></u>
+        </i>
+		<i>
+            <n>White Vinegar</n>
+            <q>0.75</q>
+            <u>Teaspoon</u>
+        </i>
+		<i>
+            <n>English Muffins</n>
+            <q>2</q>
+            <u></u>
+        </i>
+		
+    </ingredients>
+    <directions>
+        <d>For Hollandaise sauce: </d>
+        <d>Whisk the eggs and cheese in a stainless steel bowl until thick.</d>
+        <d>Bring a pan with 2 tablespoon of water into a simmer,</d>
+        <d>Place bowl with eggs ontop of the water. Careful to not let eggs get to hot or they will scramble.</d>
+        <d>Whisk eggs while slowly adding the melted cup of butter, 1 or 2 tablespoons at a time.</d>
+		<d>Whisk in salt and pepper to taste.</d>
+        <d>While Whisking if sauce becomes too thick, a teaspoon or two of the hot water.</d>
+        <d></d>
+        <d>Dish Directions: </d>
+		<d>Set the oven on broil.</d>
+        <d>Bring a 10 inch sauce pan half filled with water and vinegar to a boil.</d>
+        <d>Carefully break an egg into the water and vinegar. The vinegar keeps the egg from seperating. </d>
+		<d>Let sit for 2 and a half to 3 minutes.</d>
+		<d>Place canadian bacon onto a lightly greased pan.</d>
+		<d>Brown each side over a medium-medium high heat.</d>
+		<d>Brown the english muffins in the oven. Careful not to burn the muffins.</d>
+		<d>Place the muffin down on a dish, topped with canadian bacon, and then the egg.</d>
+		<d>Drizzle the Hollendaise sauce over the egg and serve.</d>
+    </directions>
+</recipe>

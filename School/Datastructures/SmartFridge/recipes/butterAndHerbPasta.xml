@@ -1,0 +1,43 @@
+<recipe>
+	<recipeName>Butter and Herb Pasta</recipeName>
+	<courses>
+		<c>Dinner</c>
+	</courses>
+	<ingredients>
+		<i>
+			<n>Angelhair Pasta Noodles</n>
+			<q>8</q>
+			<u>ounces</u>
+		</i>
+		<i>
+			<n>Butter</n>
+			<q>5</q>
+			<u>tablespoons</u>
+		</i>
+		<i>
+			<n>Parsley</n>
+			<q>2</q>
+			<u>tablespoons</u>
+		</i>
+		<i>
+			<n>Garlic Salt</n>
+			<q>3</q>
+			<u>teaspoons</u>
+		</i>
+		<i>
+			<n>Milk</n>
+			<q>2</q>
+			<u>tablespoons</u>
+		</i>
+	</ingredients>
+	<directions>
+		<d>Bring a large pot of water to a boil.</d>
+		<d>Add in angelhair noodles and cook for approximately 4 minutes, or until soft</d>
+		<d>Drain water from noodles.</d>
+		<d>Add butter, milk, garlic salt, and butter into the empty pot.</d>
+		<d>Stir and cook until butter is melted, and then add noodles.</d>
+		<d>Cook until milk is no longer visible.</d>
+		<d>Serve. Add shredded cheese for extra taste.</d>
+	</directions>
+</recipe>
+			

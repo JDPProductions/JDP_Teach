@@ -1,0 +1,56 @@
+<recipe>
+	<recipeName>Mango Salsa Salmon</recipeName>
+	<courses>
+		<c>Appetizer</c>
+	</courses>
+	<ingredients>
+		<i>
+			<n>Salmon Steak</n>
+			<q>6</q>
+			<u>ounce</u>
+		</i>
+		<i>
+			<n>Olive oil</n>
+			<q>3</q>
+			<u>tablespoon</u>
+		</i>
+		<i>
+			<n>Red onion, large</n>
+			<q>1</q>
+			<u></u>
+		</i>
+		<i>
+			<n>Garlic clove</n>
+			<q>2</q>
+			<u></u>
+		</i>
+		<i>
+			<n>Tomato</n>
+			<q>2</q>
+			<u></u>
+		</i>
+		<i>
+			<n>Cilantro, fresh</n>
+			<q>1</q>
+			<u></u>
+		</i>
+		<i>
+			<n>Mango</n>
+			<q>2</q>
+			<u></u>
+		</i>	
+	</ingredients>
+	<directions>
+		<d>Set oven to broil and line a oven safe pan with aluminum foil.</d>
+		<d>Broil salmon steaks on the prepared pan 12 minutes, or until salman can be flaked with a fork.</d>
+		<d>On stovetop, heat olive oil over a medium heat in a pan.</d>
+		<d>Dice the red onion and sautee in oil.</d>
+		<d>Dice the tomatoes, peel and mince the garlic cloves, and chop the fresh cilantro.
+		<d>Stir in garlic, tomatoes, and cilantro in the pan.</d>
+		<d>Cook until heated through, 1 to 2 minutes, and remove from heat.</d>
+		<d>Peel and dice the mango around the core.</d>
+		<d>Mix in the diced mangoes.</d>
+		<d>Serve salsa mix over the salmon steaks.</d>
+		<d>Add a pinch of salt to desired taste.</d>
+	</directions>
+</recipe>
