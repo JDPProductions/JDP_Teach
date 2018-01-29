@@ -1,6 +1,5 @@
-# JDP Coding 
+# JDP Coding - School
 
-This github is going to be geared towards providing teaching experiences for those interested and 
-will be paired with videos in the upcoming weeks.
+Contained within this subfolder exists school projects and homework assignments that have been approved to be publicly viewable.
 
-Content for this github will start being populated on 1/29/2018.
+Content for this github subfolder will continue being populated on 1/31/2018.
