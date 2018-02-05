@@ -1,6 +1,6 @@
 # JDP Coding 
 
-~Will be making more major edits today 2/5/2018~
++Will be making more major edits today 2/5/2018+
 
 This github is going to be geared towards providing teaching experiences for those interested and 
 will be paired with videos in the upcoming weeks.
