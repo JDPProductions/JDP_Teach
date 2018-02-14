@@ -7,7 +7,7 @@ First Video - Introduction : https://youtu.be/3phlT8SecjU
 
 Second Video - First Endeavor : https://www.youtube.com/watch?v=8Lx6dRPfiXA
 
-The documentation for the C++ 16and opengl program will be uploaded in two days. The card game is called double dip. 
+The documentation for the C++ and opengl program will be uploaded in two days. The card game is called double dip. 
 
 *Note to viewers:
     Due to job applications and interviews, please expect some delays in videos and updates. Thank you for your patience!
